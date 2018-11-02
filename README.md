@@ -15,7 +15,7 @@
 
 
 ## Лабораторная 2
-![Рисунок].(https://github.com/ko1k/github.io/blob/master/dfd.jpg)
+![Рисунок](https://github.com/ko1k/github.io/blob/master/dfd.jpg)
 
 ## Лабораторная 3
 
