@@ -33,4 +33,4 @@
 ![Рисунок](https://github.com/ko1k/github.io/blob/master/10_A33.png)
 ## Лабораторная 6
 ![Рисунок](https://github.com/ko1k/github.io/blob/master/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA%D0%B8.png)
-[Код потока]: https://github.com/ko1k/github.io/blob/master/%D0%9A%D0%BE%D0%B4%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2.txt
+[Код потока](https://github.com/ko1k/github.io/blob/master/%D0%9A%D0%BE%D0%B4%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2.txt)
