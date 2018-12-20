@@ -21,8 +21,16 @@
 ![Рисунок](https://github.com/ko1k/github.io/blob/master/dfd.jpg)
 ## Лабораторная 4
 ![Рисунок](https://github.com/ko1k/github.io/blob/master/01_A0.png)
+![Рисунок](https://github.com/ko1k/github.io/blob/master/02_A0.png)
+![Рисунок](https://github.com/ko1k/github.io/blob/master/03_A1.png)
+![Рисунок](https://github.com/ko1k/github.io/blob/master/06_A2.png)
+![Рисунок](https://github.com/ko1k/github.io/blob/master/08_A3.png)
 ## Лабораторная 5
-
+![Рисунок](https://github.com/ko1k/github.io/blob/master/04_A11.png)
+![Рисунок](https://github.com/ko1k/github.io/blob/master/05_A12.png)
+![Рисунок](https://github.com/ko1k/github.io/blob/master/07_A21.png)
+![Рисунок](https://github.com/ko1k/github.io/blob/master/09_A31.png)
+![Рисунок](https://github.com/ko1k/github.io/blob/master/10_A33.png)
 ## Лабораторная 6
 
 ## Лабораторная 7
