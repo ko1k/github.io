@@ -20,7 +20,7 @@
 ## Лабораторная 3
 ![Рисунок](https://github.com/ko1k/github.io/blob/master/dfd.jpg)
 ## Лабораторная 4
-
+![Рисунок](https://github.com/ko1k/github.io/blob/master/01_A0.png)
 ## Лабораторная 5
 
 ## Лабораторная 6
