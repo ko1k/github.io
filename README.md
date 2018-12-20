@@ -45,6 +45,6 @@
 [Код модулей](https://github.com/ko1k/github.io/blob/master/%D0%9A%D0%BE%D0%B4%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B5%D0%B9.txt
 )
 
-[Курсовая работа](https://github.com/ko1k/github.io/blob/master/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F.docx)
+## Курсовой проект[Скачать](https://github.com/ko1k/github.io/blob/master/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F.docx)
 
 
